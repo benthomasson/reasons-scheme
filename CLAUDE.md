@@ -19,7 +19,7 @@ lib/ftl/
     storage.sls            # (ftl reasons storage) — SQLite persistence
     merkle.sls             # (ftl reasons merkle) — SHA-256 hash integrity
 tests/
-  run-tests.ss             # 56 tests covering all TMS features
+  run-tests.ss             # 64 tests covering all TMS features + storage
 ```
 
 ## Running Tests
