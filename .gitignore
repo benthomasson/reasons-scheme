@@ -1,0 +1,4 @@
+*.so
+*.wpo
+*.hash
+*.db
